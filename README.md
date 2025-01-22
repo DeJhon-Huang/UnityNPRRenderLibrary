@@ -35,10 +35,3 @@ https://user-images.githubusercontent.com/18584942/218262271-ea9615c9-b935-4189-
 More showcase in [Wiki](https://github.com/DeJhon-Huang/FernNPR/wiki)
 ___
 
-## Related links
-
-- [BiliBili](https://space.bilibili.com/477693184)
-
-- [知乎专栏](https://www.zhihu.com/column/c_1587028302690304000)
-
-- [LWGUI](https://github.com/JasonMa0012/LWGUI)
